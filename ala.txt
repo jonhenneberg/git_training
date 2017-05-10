@@ -1,1 +1,2 @@
-This is the first line of my first file
+
+This is the first line of my first file. No, it's the second line!
